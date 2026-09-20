@@ -6,7 +6,9 @@ A rugged, portable, and high-gain 3-element Yagi-Uda antenna designed for the 70
 
 ## Motivation
 
-This project was built to combine a passion for 3D printing with hands-on RF engineering and amateur radio electronics. The antenna is specifically tailored for Amateur Radio Direction Finding (ARDF), commonly known as fox hunting, as well as portable simplex operations. Tape measure elements offer a unique advantage in the field: they are highly directional for tracking signals, but they safely fold and snap back into place when walking through heavy brush or trees, providing excellent RF performance without the fragility of solid aluminum tubing.
+This project was built to combine a passion for 3D printing with hands-on RF engineering. The antenna is specifically tailored for Amateur Radio Direction Finding (ARDF), commonly known as fox hunting, as well as portable simplex operations. Tape measure elements offer a unique advantage in the field: they are highly directional for tracking signals, but they safely fold and snap back into place when walking through heavy brush or trees.
+
+Beyond field performance, a major goal of this project was to design an accessible, beginner-friendly build that anyone can follow. The completely fastener-free 3D-printed frame allows the antenna to be rapidly assembled for deployments, and quickly disassembled for compact storage in a backpack. 
 
 ## Technical Specifications
 
