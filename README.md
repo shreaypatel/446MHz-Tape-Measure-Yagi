@@ -1,6 +1,6 @@
 # 446MHz Tape Measure Yagi
 
-A rugged, portable, and high-gain 3-element Yagi-Uda antenna designed for the 70cm amateur radio band (446.000 MHz). It utilizes standard steel tape measure blades for the elements and a fully 3D-printable PLA/PETG main frame.
+A rugged, portable, and high-gain 3-element Yagi-Uda antenna designed for the 70cm amateur radio band (446.000 MHz). It utilizes standard steel tape measure blades for the elements and a fully 3D-printable PLA/PETG main frame. It is designed for most handheld radios with a female SMA connector; mine specifically is the Baofeng UV-5R.
 
 *(Insert Hero Image: Fully assembled black mount with the Baofeng UV-5R from your /Media folder)*
 
@@ -25,7 +25,7 @@ Beyond field performance, a major goal of this project was to design an accessib
 | Component | Details |
 | :--- | :--- |
 | **Antenna Elements** | 16mm width steel tape measure |
-| **Coaxial Cable** | RG-58 with SMA-Female connector (to match Baofeng UV-5R) |
+| **Coaxial Cable** | RG-58 with SMA-Female connector |
 | **Main Frame & Mounts** | 3D-printed in PLA or PETG (SolidWorks CAD files in `/CAD`) |
 
 *(Note: This is a completely fastener-free design.)*
@@ -45,7 +45,7 @@ Beyond field performance, a major goal of this project was to design an accessib
 *   **Tinning:** Apply flux and pre-tin the bare steel using a high-wattage iron.
 *   **Preparation:** Strip your RG-58 coax, twist the copper shield into a tight pigtail, and pre-tin both the shield and center core. 
 *   **Connection:** Solder the center conductor to one side of the 8 mm gap and the shielded pigtail to the other. Ensure they do not physically bridge the gap.
-*   **Strain Relief:** Once the solder has completely cooled, apply Loctite 495 between the outer PVC jacket of the coax and the solid printed frame to protect the fragile solder joints from physical stress.
+*   **Strain Relief (Optional):** If the end cables are loose and flimsy, once the solder has completely cooled, you can apply a non-conductive bonding element between the outer PVC jacket of the coax and the solid printed frame to keep it more rigid and protect the joints from physical stress.
 
 ## Field Testing
 *(Insert field testing photos against the transmission towers from your /Media folder)*
