@@ -16,7 +16,7 @@ Beyond field performance, a major goal of this project was to design an accessib
 | Parameter | Value |
 | :--- | :--- |
 | **Target Frequency** | 446.000 MHz (70cm National Simplex) |
-| **Design Methodology** | DL6WU / G3SEK Optimization |
+| **Design Methodology** | DL6WU / G3SEK Optimization (Calculations via the 3G-Aerial Calculator for a simple 3-element Yagi antenna) |
 | **Estimated Gain** | ~7.3 dBi |
 | **Feed Point Impedance** | ~50 Ohms (Direct RG-58 connection, no matching loop needed) |
 | **Active Boom Length** | 208 mm |
@@ -35,7 +35,7 @@ Beyond field performance, a major goal of this project was to design an accessib
 
 ### 1. Element Cutting & Spacing
 *   **Elements:** Cut the tape measure blades to length. The reflector is 347 mm, the director is 286 mm, and the driven element consists of two separate 153 mm halves.
-*   **Spacing:** Print the main frame from the `/STL` directory. The correct element spacing (116 mm and 92 mm) is natively built into the CAD geometry. The slots are designed for a friction fit, so simply slide the tape measure blades into place. Mark the exact center point on your reflector and director elements, and slide them in until those marks align with the center alignment point built into the 3D-printed frame.
+*   **Spacing:** Print the main frame from the `/STL` directory. The correct element spacing (116 mm and 92 mm) was derived using the 3G-Aerial Calculator for a simple 3-element Yagi antenna and is natively built into the CAD geometry. The slots are designed for a friction fit, so simply slide the tape measure blades into place. Mark the exact center point on your reflector and director elements, and slide them in until those marks align with the center alignment point built into the 3D-printed frame.
 
 ### 2. Feed Gap & Surface Preparation
 *   **Alignment:** Ensure the two halves of the driven element are mounted with exactly an 8 mm air gap between them at the center.
@@ -54,7 +54,6 @@ Beyond field performance, a major goal of this project was to design an accessib
 ## Field Testing
 Ensure you test the antenna on a low power setting (1W) first before attempting full-power transmissions. 
 ![](Media/image7.jpg)
-
 
 ## Repository Structure
 *   `/CAD`: SolidWorks source files (`.sldprt`, `.sldasm`) so operators can adapt the mounts for different tape measure widths.
