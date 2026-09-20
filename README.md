@@ -26,7 +26,7 @@ Beyond field performance, a major goal of this project was to design an accessib
 | :--- | :--- |
 | **Antenna Elements** | 16mm width steel tape measure |
 | **Coaxial Cable** | RG-58 with SMA-Female connector |
-| **Main Frame & Mounts** | 3D-printed in PLA or PETG (SolidWorks CAD files in `/CAD`) |
+| **Main Frame** | 3D-printed in PLA or PETG (SolidWorks CAD files in `/CAD`) |
 
 *(Note: This is a completely fastener-free design.)*
 
