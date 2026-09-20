@@ -52,8 +52,9 @@ Beyond field performance, a major goal of this project was to design an accessib
 ![](Media/image6.jpg)
 
 ## Field Testing
-*(Insert field testing photos against the transmission towers from your /Media folder)*
 Ensure you test the antenna on a low power setting (1W) first before attempting full-power transmissions. 
+![](Media/image7.jpg)
+
 
 ## Repository Structure
 *   `/CAD`: SolidWorks source files (`.sldprt`, `.sldasm`) so operators can adapt the mounts for different tape measure widths.
