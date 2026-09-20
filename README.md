@@ -1,6 +1,6 @@
 # 446MHz Tape Measure Yagi
 
-A rugged, portable, and high-gain 3-element Yagi-Uda antenna designed for the 70cm amateur radio band (446.000 MHz). It utilizes standard steel tape measure blades for the elements and a fully 3D-printable PLA main frame.
+A rugged, portable, and high-gain 3-element Yagi-Uda antenna designed for the 70cm amateur radio band (446.000 MHz). It utilizes standard steel tape measure blades for the elements and a fully 3D-printable PLA/PETG main frame.
 
 *(Insert Hero Image: Fully assembled black mount with the Baofeng UV-5R from your /Media folder)*
 
@@ -18,7 +18,7 @@ Beyond field performance, a major goal of this project was to design an accessib
 | **Design Methodology** | DL6WU / G3SEK Optimization |
 | **Estimated Gain** | ~7.3 dBi |
 | **Feed Point Impedance** | ~50 Ohms (Direct RG-58 connection, no matching loop needed) |
-| **Active Boom Length** | 215 mm |
+| **Active Boom Length** | 208 mm |
 
 ## Bill of Materials (BOM)
 
@@ -32,13 +32,13 @@ Beyond field performance, a major goal of this project was to design an accessib
 
 ## Build Guide & Assembly
 
-### 1. Element Cutting & Boom Spacing
+### 1. Element Cutting & Spacing
 *   **Elements:** Cut the tape measure blades to length. The reflector is 347 mm, the director is 286 mm, and the driven element consists of two separate 153 mm halves.
-*   **Spacing:** Assemble the printed PLA/PETG frame. The center-to-center distance from the reflector to the driven element is 116 mm. The distance from the driven element to the director is 92 mm.
+*   **Spacing:** Print the main frame from the `/STL` directory. The correct element spacing (116 mm and 92 mm) is natively built into the CAD geometry. The slots are designed for a friction fit, so simply slide the tape measure blades into place. Mark the exact center point on your reflector and director elements, and slide them in until those marks align with the center alignment point built into the 3D-printed frame.
 
 ### 2. Feed Gap & Surface Preparation
 *   **Alignment:** Ensure the two halves of the driven element are mounted with exactly an 8 mm air gap between them at the center.
-*   **Sanding:** Use sandpaper or a grinding tool to completely remove the yellow paint and clear coat from the inner feed-point edges of the driven elements to expose bare steel. *If you do not remove the clear coat, the solder will not bond.*
+*   **Sanding:** Use sandpaper to completely remove the yellow paint and clear coat from the inner feed-point edges of the driven elements to expose bare steel. *If you do not remove the clear coat, the solder will not bond.*
 
 ### 3. Soldering the Coax
 *(Insert coax stripping and twisted braid photos from your /Media folder)*
