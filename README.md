@@ -1,7 +1,6 @@
 # 446MHz Tape Measure Yagi
 
 A rugged, portable, and high-gain 3-element Yagi-Uda antenna designed for the 70cm amateur radio band (446.000 MHz). It utilizes standard steel tape measure blades for the elements and a fully 3D-printable PLA/PETG main frame. It is designed for most handheld radios with a female SMA connector; this version was specifcially tested on the Baofeng UV-5R.
-https://github.com/shreaypatel/446MHz-Tape-Measure-Yagi/blob/main/README.md
 ![](Media/image2.jpg)
 ![Fully assembled Yagi](Media/mainangle1.jpg)
 
