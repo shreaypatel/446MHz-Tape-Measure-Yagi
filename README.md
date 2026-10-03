@@ -65,5 +65,5 @@ This project is open-source and licensed under dual terms:
 * **Hardware:** The physical design and CAD files are licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P v2). See the `LICENSE` file for details.
 * **Documentation:** All text, instructions, and images are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA 4.0).
 
-* <img width="590" height="165" alt="image" src="https://github.com/user-attachments/assets/643bca31-9cc3-4c7f-b0a3-3420d09be250" />
+<img width="590" height="165" alt="image" src="https://github.com/user-attachments/assets/643bca31-9cc3-4c7f-b0a3-3420d09be250" />
 
