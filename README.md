@@ -65,5 +65,8 @@ This project is open-source and licensed under dual terms:
 * **Hardware:** The physical design and CAD files are licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P v2). See the `LICENSE` file for details.
 * **Documentation:** All text, instructions, and images are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA 4.0).
 
+[![OSHWA Certification CA000080](https://oshwa.github.io/certification-mark-generator/assets/oshwa-mark.svg)](https://certification.oshwa.org/list.html)
+
+**OSHWA Certified UID:** [CA000080](https://certification.oshwa.org/list.html)
 
 
